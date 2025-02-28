@@ -9,10 +9,7 @@ const Footer: React.FC = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
             <div className="flex items-center mb-4">
-              <Building2 className="h-8 w-8 text-amber-500" />
-              <span className="ml-2 text-xl font-bold">
-                <span className="text-amber-500">Vibrant</span>SpaceDesigns
-              </span>
+                <img src="./images/logo4.png" alt="VibrantSpaceDesigns Logo"  className="h-20  w-auto ml-5 mr-5"  />
             </div>
             <p className="text-gray-400 mb-4">
               Creating innovative architectural solutions that transform spaces and enhance lives.
