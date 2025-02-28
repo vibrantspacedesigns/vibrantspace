@@ -15,7 +15,7 @@ const Navbar: React.FC = () => {
         <div className="flex justify-between h-20">
           <div className="flex items-center">
             <Link to="/" className="flex items-center">
-            <img src="src/images/logo4.png" alt="VibrantSpaceDesigns Logo"  className="h-20  w-auto ml-5 mr-5"  />
+            <img src="./images/logo4.png" alt="VibrantSpaceDesigns Logo"  className="h-20  w-auto ml-5 mr-5"  />
             </Link>
           </div>
           
